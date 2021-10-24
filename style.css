@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: lightskyblue;
+}
+
+#featured {
+  padding-top: 5rem;
+  border-top: none;
+}
+
+#gallery {
+  padding-top: 5rem;
+  background-color: #a2d9ff;
+}
+
+#contact {
+  padding-top: 5rem;
+}
+
+footer {
+  padding: 3rem;
+}
